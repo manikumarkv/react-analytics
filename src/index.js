@@ -13,7 +13,7 @@ const analytics = Analytics({
   app: 'awesome-app',
   plugins: [
     amplitudePlugin({
-      apiKey: 'a2cbce9287ef2eb48e1f165ee8905d7c',
+      apiKey: 'API_KEY',
       // See options at https://bit.ly/3dRdZnE
       options: {
         trackingOptions: {
